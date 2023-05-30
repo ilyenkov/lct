@@ -1,3 +1,3 @@
-# Environment: Dockerfile.tmpl
+Environment: Dockerfile.tmpl
 
-# Code: lct-ozon-v0.ipynb
+Code: lct-ozon-v0.ipynb
